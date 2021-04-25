@@ -3,8 +3,8 @@ import './styles/App.scss';
 
 function App(props) {
     return (
-        <div>
-            
+        <div className="InitialDiv">
+            MERN - Webpack - Sass Template
         </div>
     );
 }
